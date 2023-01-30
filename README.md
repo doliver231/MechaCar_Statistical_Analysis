@@ -2,11 +2,14 @@
 
 ## Resources
 
-* Data Source: [MechaCar - MPG](), [MechaCar - Suspension Coils]()
-* R Script: [MechaCar R-Script]()
+* Data Source: [MechaCar - MPG](https://github.com/doliver231/MechaCar_Statistical_Analysis/blob/main/MechaCar_mpg.csv), [MechaCar - Suspension Coils](https://github.com/doliver231/MechaCar_Statistical_Analysis/blob/main/Suspension_Coil.csv)
+* R Script: [MechaCar R-Script](https://github.com/doliver231/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.R)
 * Software/Languages: R Programming, R Studio 2022.12.0, Tidyverse Library
 
 ## Linear Regression to Predict MPG
+
+![Linear Model](https://github.com/doliver231/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable1_ln().png)
+![Summary of LM](https://github.com/doliver231/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable1_summary.png)
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
@@ -16,9 +19,17 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 ## Summary Statistics on Suspension Coils
 
+![Total coils](https://github.com/doliver231/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable2_total.png)
+![Lots summary](https://github.com/doliver231/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable2_lotSummary.png)
+
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 ## T-Tests on Suspension Coils
+
+![Total](https://github.com/doliver231/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable3_allLots.png)
+![Lot1](https://github.com/doliver231/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable3_Lot1.png)
+![Lot2](https://github.com/doliver231/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable3_Lot2.png)
+![Lot3](https://github.com/doliver231/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable3_Lot3.png)
 
 briefly summarize your interpretation and findings for the t-test results
 
