@@ -54,8 +54,8 @@ We performed the analysis on individual group, Lot 3. Our t-test resulted with a
 
 One statistical study that can be performed to quantify how the MechaCar performs against the competition is to test the following metrics: city/highway fuel efficiency of different cars based on vehicle class and safety rating.
 
-The null hypthesis: the means of all groups are equal
-The alternate hypothesis: at least one of the means is different from all other groups.
+* The null hypthesis: the means of all groups are equal
+* The alternate hypothesis: at least one of the means is different from all other groups.
 
 To test the hypothesis, we would use ANOVA (two-way) testing. The fuel efficiency would be a numerical, continuous, and normally distributed dependent variable. Vehicle class and safety rating would be categorical independent variables. If safety rating is numerical, the data would need to be converted to factors before performing the ANOVA.
 
